@@ -48,7 +48,7 @@ function link (scope, element, attrs, ctrl) {
       ctrl.$render()
     }
 
-    return actualValue
+    return formatedValue
   }
 
   ctrl.$formatters.push(formatter)
