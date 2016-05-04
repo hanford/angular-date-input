@@ -1,6 +1,6 @@
 ## angular-date-input
 
-[Live Demo!](https://hanford.github.io/angular-date-input)
+[Live Demo!](http://jackhanford.com/angular-date-input)
 
 [![NPM][star-icon]][star-url]
 
